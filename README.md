@@ -1,1 +1,2 @@
-# some_java
+
+Sample Java Applicaiton V3.5
